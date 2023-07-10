@@ -19,8 +19,10 @@ int count_word(char *s)
 					flag = 0;
 				else
 					if (flag ==)
+					{
 						flag = 1;
 				w++;
+					}
 			}
 			return (w);
 }
